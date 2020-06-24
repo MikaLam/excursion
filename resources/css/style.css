@@ -1,0 +1,22 @@
+/*General CSS*/
+html,
+body {
+  font-family: Verdana;
+  color: white;
+  background-color: black;
+}
+
+.excursion-link {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+/*Top-Bar CSS*/
+.top-bar {
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 32px;
+}
